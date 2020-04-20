@@ -1,0 +1,80 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        4,
+        1
+    ],
+    "data": [
+        [
+            [
+                "THIS PARTY IS A RAGER. BUT WE'RE ALMOST OUT OF [color=#3aabd7]SODA[/color] AND [color=#e6482e]SNACKS[/color]."
+            ],
+            [
+                "WE NEED MORE! GO GET [color=#3aabd7]SODA[/color] AND [color=#e6482e]SNACKS[/color] FROM SHOP 0 AND SHACK 4."
+            ],
+            [
+                "EVERYBODY'S LEAVING, BRO. NO MORE RAGING FOR US. AND TO THINK, IF WE ONLY HAD MORE SNACKS AND SODA..."
+            ],
+            [
+                "NICE ONE! YOU SAVED THIS PARTY WITH % SECONDS TO SPARE. WE HAVE ENOUGH [color=#3aabd7]SODA[/color] AND [color=#e6482e]SNACKS[/color] TO LAST AN EON. RAGE ON!"
+            ]
+        ],
+        [
+            [
+                "GO TO [color=#3aabd7]SODA[/color] SHOP 1 AND [color=#e6482e]SNACK[/color] SHACK 1 TO GET MORE."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "HURRY, WE CAN'T LET THE PARTY DIE!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}
