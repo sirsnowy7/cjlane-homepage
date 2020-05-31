@@ -87,6 +87,18 @@ ul {
   margin: 0.4em 0px;
 }
 
+ul.normal li {
+  padding: 1em;
+  width: inherit;
+}
+
+ul.normal li a {
+  text-decoration: underline;
+  color: #DC4545;
+  padding: 0px;
+  width: 100%
+}
+
 img {
   border-top: 2px solid #DC4545;
   border-bottom: 2px solid #DC4545;
